@@ -1,0 +1,24 @@
+{
+  "name": "illumina",
+  "version": "0.0.1",
+  "description": "illumina: 2d game engine with multiplayer support",
+  "main": "./lib/illumina",
+  "keywords": [
+    "illumina",
+    "game",
+    "engine",
+    "2d",
+    "multiplayer"
+  ],
+  "author": {
+    "name": "Aaron Vanderwielen"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^1.4.30"
+  }
+}
